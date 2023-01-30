@@ -570,11 +570,31 @@ document.body.appendChild(renderer.domElement);
 // We need to things to render elements on html canvas and THREE.js
 //A scene is basically like a film scene in which actor and other things that we want to
 //to display in camera come so we need to create scene
-let scene = new _three.Scene();
+const scene = new _three.Scene();
 //Two types of camera , we are using perspective camera for 3d use.
-let camera = new _three.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-// In order to render our scene through camera we need render method of renderer
-renderer.render(scene, camera);
+const camera = new _three.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+//Adding axes helper that display three axes of graph x,y and z
+const axesHelper = new _three.AxesHelper(5);
+scene.add(axesHelper);
+//Setting camera postion so we could see the scene, by default position is (0,0,0)
+camera.position.set(0, 2, 5);
+//Creating box and adding it to scene
+const boxGeometry = new _three.BoxGeometry();
+const boxMaterial = new _three.MeshBasicMaterial({
+    color: 0x00ff00
+});
+const box = new _three.Mesh(boxGeometry, boxMaterial);
+scene.add(box);
+//adding rotation to box
+// box.rotation.x = 5;
+// box.rotation.y = 5;
+function animate() {
+    box.rotation.x += 0.01;
+    box.rotation.y += 0.01;
+    // In order to render our scene through camera we need render method of renderer
+    renderer.render(scene, camera);
+}
+renderer.setAnimationLoop(animate);
 
 },{"three":"ktPTu"}],"ktPTu":[function(require,module,exports) {
 /**

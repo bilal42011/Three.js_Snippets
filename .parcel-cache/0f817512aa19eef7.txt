@@ -1,7 +1,4 @@
-5278
-104C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133194955723389654 0
-52C:\Users\DELL\documents\Three.js_Snippets\src\styles133194987625217408 1
-63C:\Users\DELL\documents\Three.js_Snippets\node_modules\get-port133194955644883777 1
+5279
 69C:\Users\DELL\documents\Three.js_Snippets\node_modules\terser\LICENSE133194955590293750 0
 72C:\Users\DELL\documents\Three.js_Snippets\node_modules\has-flag\index.js133194955588233769 0
 82C:\Users\DELL\documents\Three.js_Snippets\node_modules\@lezer\common\dist\mix.d.ts133194955632953760 0
@@ -9,8 +6,26 @@
 101C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\loaders\NodeLoader.js133194964755600975 0
 82C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\events\src\types.js133194955677219113 0
 54C:\Users\DELL\documents\Three.js_Snippets\package.json133194971670486057 0
-46C:\Users\DELL\documents\Three.js_Snippets\dist133194996629241132 1
+46C:\Users\DELL\documents\Three.js_Snippets\dist133195072118329079 1
 97C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\webgl\WebGLPrograms.js133194964790810865 0
+85C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\utils\src\sourcemap.js133194955723579744 0
+99C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\libs\rhino3dm\rhino3dm.js133194964770020942 0
+77C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\constants.js133194964723357863 0
+77C:\Users\DELL\documents\Three.js_Snippets\node_modules\escalade\sync\index.js133194955589913790 0
+64C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src133194964784630970 1
+72C:\Users\DELL\documents\Three.js_Snippets\node_modules\@msgpackr-extract133194964811971144 1
+97C:\Users\DELL\documents\Three.js_Snippets\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133194955701049098 0
+86C:\Users\DELL\documents\Three.js_Snippets\node_modules\entities\lib\maps\entities.json133194955618203752 0
+91C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\features\bigint.js133194955708439097 0
+69C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\plugin133194955621143816 1
+70C:\Users\DELL\documents\Three.js_Snippets\node_modules\posthtml-render133194955600853770 1
+99C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\WebGLCubeRenderTarget.js133194964788510947 0
+108C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\lighting\IESSpotLightNode.js133194964742107855 0
+82C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\core\Raycaster.js133194964767310955 0
+73C:\Users\DELL\documents\Three.js_Snippets\node_modules\domutils\readme.md133194955639253779 0
+83C:\Users\DELL\documents\Three.js_Snippets\node_modules\nth-check\lib\esm\index.d.ts133194955657179134 0
+86C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\audio\AudioContext.js133194964717457835 0
+52C:\Users\DELL\documents\Three.js_Snippets\.gitignore133195067060924147 0
 83C:\Users\DELL\documents\Three.js_Snippets\node_modules\posthtml-render\package.json133194955592533753 0
 85C:\Users\DELL\documents\Three.js_Snippets\node_modules\chrome-trace-event\LICENSE.txt133194955604373755 0
 101C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\features\addeventlistener.js133194955612433737 0
@@ -42,6 +57,9 @@
 86C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\regions\YE.js133194955792280352 0
 85C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\watcher\src\Backend.cc133194955603683793 0
 101C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\postprocessing\BloomPass.js133194964718697844 0
+104C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133194955723389654 0
+52C:\Users\DELL\documents\Three.js_Snippets\src\styles133194987625217408 1
+63C:\Users\DELL\documents\Three.js_Snippets\node_modules\get-port133194955644883777 1
 72C:\Users\DELL\documents\Three.js_Snippets\node_modules\@trysound\sax\lib133194955581693796 1
 81C:\Users\DELL\documents\Three.js_Snippets\node_modules\@swc\helpers\lib\_throw.js133194955711839116 0
 88C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\helpers\CameraHelper.js133194964720957824 0
@@ -57,7 +75,7 @@
 62C:\Users\DELL\documents\Three.js_Snippets\src\styles\index.css133194996530691227 0
 87C:\Users\DELL\documents\Three.js_Snippets\node_modules\msgpackr\dist\unpack-no-eval.cjs133194955609913749 0
 104C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\animation\tracks\VectorKeyframeTrack.js133194964786070936 0
-57C:\Users\DELL\documents\Three.js_Snippets\src\js\index.js133194996587715078 0
+57C:\Users\DELL\documents\Three.js_Snippets\src\js\index.js133195072099071096 0
 74C:\Users\DELL\documents\Three.js_Snippets\node_modules\nth-check\README.md133194955646553745 0
 59C:\Users\DELL\documents\Three.js_Snippets\node_modules\.bin133194955860529509 1
 67C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite133194955792580347 1
@@ -107,7 +125,6 @@
 61C:\Users\DELL\documents\Three.js_Snippets\node_modules\@babel133194955543998326 1
 101C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\misc\ConvexObjectBreaker.js133194964723877890 0
 66C:\Users\DELL\documents\Three.js_Snippets\node_modules\@jridgewell133194955544008328 1
-65C:\Users\DELL\documents\Three.js_Snippets\node_modules\is-extglob133194955591103767 1
 63C:\Users\DELL\documents\Three.js_Snippets\node_modules\mdn-data133194955668619152 1
 93C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\materialx\lib133194964754468484 1
 61C:\Users\DELL\documents\Three.js_Snippets\node_modules\@lezer133194955543898353 1
@@ -131,12 +148,6 @@
 95C:\Users\DELL\documents\Three.js_Snippets\node_modules\@swc\helpers\lib\_to_consumable_array.js133194955713599091 0
 120C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\shaders\ShaderChunk\lightmap_fragment.glsl.js133194964744437810 0
 84C:\Users\DELL\documents\Three.js_Snippets\node_modules\v8-compile-cache\CHANGELOG.md133194955594033751 0
-85C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\utils\src\sourcemap.js133194955723579744 0
-99C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\libs\rhino3dm\rhino3dm.js133194964770020942 0
-77C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\constants.js133194964723357863 0
-77C:\Users\DELL\documents\Three.js_Snippets\node_modules\escalade\sync\index.js133194955589913790 0
-64C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src133194964784630970 1
-72C:\Users\DELL\documents\Three.js_Snippets\node_modules\@msgpackr-extract133194964811971144 1
 89C:\Users\DELL\documents\Three.js_Snippets\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133194955610473746 0
 106C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\display\ToneMappingNode.js133194964780950952 0
 81C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\fs\src\MemoryFS.js133194955672399129 0
@@ -313,6 +324,7 @@
 66C:\Users\DELL\documents\Three.js_Snippets\node_modules\is-arrayish133194955604963805 1
 76C:\Users\DELL\documents\Three.js_Snippets\node_modules\mdn-data\css\index.js133194955589953780 0
 80C:\Users\DELL\documents\Three.js_Snippets\node_modules\weak-lru-cache\index.d.ts133194955615943780 0
+65C:\Users\DELL\documents\Three.js_Snippets\node_modules\is-extglob133194955591103767 1
 73C:\Users\DELL\documents\Three.js_Snippets\node_modules\is-number\index.js133194955581653755 0
 62C:\Users\DELL\documents\Three.js_Snippets\node_modules\is-glob133194955591224240 1
 86C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\regions\FJ.js133194955757400303 0
@@ -346,7 +358,7 @@
 99C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\exporters\KTX2Exporter.js133194964743937910 0
 99C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\core\InstancedInterleavedBuffer.js133194964743027841 0
 63C:\Users\DELL\documents\Three.js_Snippets\node_modules\msgpackr133194955698169080 1
-65C:\Users\DELL\documents\Three.js_Snippets\dist\index.ebeadb08.css133194996628921138 0
+65C:\Users\DELL\documents\Three.js_Snippets\dist\index.ebeadb08.css133195072117959173 0
 109C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\node-editor\math\NormalizeEditor.js133194964756500942 0
 61C:\Users\DELL\documents\Three.js_Snippets\node_modules\srcset133194955599514195 1
 112C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\shadernode\ShaderNodeElements.js133194964772570965 0
@@ -421,12 +433,6 @@
 104C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\shaders\HueSaturationShader.js133194964741957829 0
 70C:\Users\DELL\documents\Three.js_Snippets\node_modules\posthtml-parser133194955605813774 1
 121C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\shaders\ShaderChunk\morphtarget_vertex.glsl.js133194964753498466 0
-97C:\Users\DELL\documents\Three.js_Snippets\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133194955701049098 0
-86C:\Users\DELL\documents\Three.js_Snippets\node_modules\entities\lib\maps\entities.json133194955618203752 0
-91C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\features\bigint.js133194955708439097 0
-69C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\plugin133194955621143816 1
-70C:\Users\DELL\documents\Three.js_Snippets\node_modules\posthtml-render133194955600853770 1
-99C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\WebGLCubeRenderTarget.js133194964788510947 0
 96C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\optimizer-image\lib\loadNative.js133194955647119109 0
 74C:\Users\DELL\documents\Three.js_Snippets\node_modules\react-error-overlay133194955608013822 1
 92C:\Users\DELL\documents\Three.js_Snippets\node_modules\css-tree\lib\syntax\node\Dimension.js133194955687569155 0
@@ -621,11 +627,6 @@
 105C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\features\internationalization.js133194955764350334 0
 108C:\Users\DELL\documents\Three.js_Snippets\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs133194955732400311 0
 116C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\shaders\ShaderChunk\envmap_vertex.glsl.js133194964735827805 0
-77C:\Users\DELL\documents\Three.js_Snippets\node_modules\mdn-data\l10n\index.js133194955599953775 0
-107C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\features\keyboardevent-location.js133194955765600302 0
-80C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\math\Vector2.js133194964785761009 0
-123C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\shaders\ShaderChunk\skinning_pars_vertex.glsl.js133194964773950922 0
-89C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\features\cors.js133194955732200303 0
 103C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\loaders\BasisTextureLoader.js133194964718387843 0
 77C:\Users\DELL\documents\Three.js_Snippets\node_modules\yaml\dist\parse-cst.js133194955656629183 0
 90C:\Users\DELL\documents\Three.js_Snippets\node_modules\type-fest\source\promise-value.d.ts133194955668279103 0
@@ -1107,9 +1108,9 @@
 118C:\Users\DELL\documents\Three.js_Snippets\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src\index.js133194955724199666 0
 73C:\Users\DELL\documents\Three.js_Snippets\node_modules\timsort\.npmignore133194955582013776 0
 68C:\Users\DELL\documents\Three.js_Snippets\node_modules\timsort\build133194955604423778 1
-130C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\shaders\ShaderChunk\envmap_common_pars_fragment.glsl.js133194964735097813 0
-97C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\core\InputNode.js133194964742937819 0
 118C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\shaders\ShaderChunk\uv2_pars_vertex.glsl.js133194964784980934 0
+97C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\core\InputNode.js133194964742937819 0
+130C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\shaders\ShaderChunk\envmap_common_pars_fragment.glsl.js133194964735097813 0
 73C:\Users\DELL\documents\Three.js_Snippets\node_modules\timsort\LICENSE.md133194955596943751 0
 82C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\math\interpolants133194964766910947 1
 72C:\Users\DELL\documents\Three.js_Snippets\node_modules\semver\bin\semver133194955583423780 0
@@ -1431,6 +1432,11 @@
 116C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\accessors\ModelViewProjectionNode.js133194964753032657 0
 118C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\shaders\ShaderChunk\skinbase_vertex.glsl.js133194964773830928 0
 87C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\parsers133194964794320932 1
+77C:\Users\DELL\documents\Three.js_Snippets\node_modules\mdn-data\l10n\index.js133194955599953775 0
+107C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\features\keyboardevent-location.js133194955765600302 0
+80C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\math\Vector2.js133194964785761009 0
+123C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\renderers\shaders\ShaderChunk\skinning_pars_vertex.glsl.js133194964773950922 0
+89C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\features\cors.js133194955732200303 0
 87C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\helpers\ArrowHelper.js133194964717127816 0
 73C:\Users\DELL\documents\Three.js_Snippets\node_modules\domelementtype\lib133194955611683745 1
 100C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\libs\lil-gui.module.min.js133194964745507836 0
@@ -1737,11 +1743,6 @@
 79C:\Users\DELL\documents\Three.js_Snippets\node_modules\svgo\lib\svgo\plugins.js133194955681209091 0
 81C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\core\Object3D.js133194964757250931 0
 71C:\Users\DELL\documents\Three.js_Snippets\node_modules\svgo\lib\svgo.js133194955717569694 0
-108C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\nodes\lighting\IESSpotLightNode.js133194964742107855 0
-82C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\core\Raycaster.js133194964767310955 0
-73C:\Users\DELL\documents\Three.js_Snippets\node_modules\domutils\readme.md133194955639253779 0
-83C:\Users\DELL\documents\Three.js_Snippets\node_modules\nth-check\lib\esm\index.d.ts133194955657179134 0
-86C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\audio\AudioContext.js133194964717457835 0
 86C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\core\UniformsGroup.js133194964783080922 0
 90C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\regions\alt-sa.js133194955663119107 0
 87C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\src\cameras\ArrayCamera.js133194964716677849 0
@@ -1869,8 +1870,8 @@
 86C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\regions\TV.js133194955785700364 0
 103C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\effects\PeppersGhostEffect.js133194964763480923 0
 93C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\utils\WorkerPool.js133194964794620979 0
-72C:\Users\DELL\documents\Three.js_Snippets\node_modules\js-tokens\LICENSE133194955592303768 0
 112C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\shaders\ACESFilmicToneMappingShader.js133194964713297860 0
+72C:\Users\DELL\documents\Three.js_Snippets\node_modules\js-tokens\LICENSE133194955592303768 0
 93C:\Users\DELL\documents\Three.js_Snippets\node_modules\caniuse-lite\data\features\svg-html.js133194955781530321 0
 69C:\Users\DELL\documents\Three.js_Snippets\node_modules\lmdb\README.md133194955737400371 0
 101C:\Users\DELL\documents\Three.js_Snippets\node_modules\three\examples\jsm\shaders\AfterimageShader.js133194964713467827 0
@@ -5273,7 +5274,7 @@
 66C:\Users\DELL\documents\Three.js_Snippets\node_modules\.bin\parcel133194955859809507 0
 66C:\Users\DELL\documents\Three.js_Snippets\node_modules\.bin\semver133194955859849501 0
 70C:\Users\DELL\documents\Three.js_Snippets\node_modules\.bin\terser.ps1133194955860949558 0
-64C:\Users\DELL\documents\Three.js_Snippets\dist\index.739bf03c.js133194996628941167 0
-68C:\Users\DELL\documents\Three.js_Snippets\dist\index.739bf03c.js.map133194996629201259 0
-69C:\Users\DELL\documents\Three.js_Snippets\dist\index.ebeadb08.css.map133194996629181160 0
-57C:\Users\DELL\documents\Three.js_Snippets\dist\index.html133194996628911180 0
+64C:\Users\DELL\documents\Three.js_Snippets\dist\index.739bf03c.js133195072117959173 0
+68C:\Users\DELL\documents\Three.js_Snippets\dist\index.739bf03c.js.map133195072118269141 0
+69C:\Users\DELL\documents\Three.js_Snippets\dist\index.ebeadb08.css.map133195072118249130 0
+57C:\Users\DELL\documents\Three.js_Snippets\dist\index.html133195072117839083 0
