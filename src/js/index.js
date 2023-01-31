@@ -1,4 +1,6 @@
 import * as THREE from "three";
+import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
+
 // const welcomeHeading = document.getElementById("welcome-note");
 // welcomeHeading.innerHTML = "Welcome to Three.js Parcel Setup!";
 
@@ -26,12 +28,15 @@ const camera = new THREE.PerspectiveCamera(
   1000
 );
 
+const orbit = new OrbitControls(camera, renderer.domElement);
+
 //Adding axes helper that display three axes of graph x,y and z
 const axesHelper = new THREE.AxesHelper(5);
 scene.add(axesHelper);
 
 //Setting camera postion so we could see the scene, by default position is (0,0,0)
 camera.position.set(0, 2, 5);
+orbit.update();
 
 //Creating box and adding it to scene
 const boxGeometry = new THREE.BoxGeometry();
@@ -44,9 +49,9 @@ scene.add(box);
 // box.rotation.x = 5;
 // box.rotation.y = 5;
 
-function animate() {
-  box.rotation.x += 0.01;
-  box.rotation.y += 0.01;
+function animate(time) {
+  box.rotation.x = time / 1000;
+  box.rotation.y = time / 1000;
   // In order to render our scene through camera we need render method of renderer
   renderer.render(scene, camera);
 }
