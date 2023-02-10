@@ -1,4 +1,5 @@
 import * as THREE from "three";
+import { PlaneGeometry } from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 
 // const welcomeHeading = document.getElementById("welcome-note");
@@ -45,9 +46,16 @@ const box = new THREE.Mesh(boxGeometry, boxMaterial);
 
 scene.add(box);
 
-//adding rotation to box
+//adding rotation to boxN
 // box.rotation.x = 5;
 // box.rotation.y = 5;
+
+// Adding plane geometry
+// const PlaneGeometry = new THREE.PlaneGeometry(30, 30);
+// const planeMaterial = new THREE.MeshBasicMaterial({ color: 0xffffff });
+// const plane = new THREE.Mesh(PlaneGeometry, planeMaterial);
+
+// scene.add(plane);
 
 function animate(time) {
   box.rotation.x = time / 1000;
